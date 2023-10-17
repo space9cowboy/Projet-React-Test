@@ -29,6 +29,8 @@ const CardWrapper = styled.div`
   flex-direction: column;
   justify-content: space-around;
   padding: 15px;
+  margin-top: 20px;
+  align-items: center;
   background-color: ${colors.backgroundLight};
   border-radius: 30px;
   width: 300px;
